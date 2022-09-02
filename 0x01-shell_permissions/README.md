@@ -1,1 +1,1 @@
-Mode of the file hello the same as olleh
+Add executive permissions to all subdirectories
