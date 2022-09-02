@@ -1,1 +1,1 @@
-Add executive permissions to all subdirectories
+Creat a directory called my_dir
