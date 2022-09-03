@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -lapmnv
 ls -map|sort -d
